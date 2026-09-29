@@ -1,0 +1,12 @@
+{
+  "source": "/content/drive/MyDrive/Isoliq Inno 1/data/input.txt",
+  "source_sha256": "46ba0c36d81845bc1517f5de1653515ac3a60d3ed98603dd982b72a31606e294",
+  "documents": 4800,
+  "train_documents": 4560,
+  "val_documents": 240,
+  "train_tokens": 38273145,
+  "val_tokens": 1986164,
+  "vocab_size": 1280,
+  "replacement_characters_removed": 89,
+  "seed": 1337
+}

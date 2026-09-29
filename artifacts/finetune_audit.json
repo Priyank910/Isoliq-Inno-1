@@ -1,0 +1,15 @@
+{
+  "parsed_conversations": 2308,
+  "exact_unique_conversations": 2308,
+  "conflicting_questions_removed": 0,
+  "examples_inside_conflict_groups": 0,
+  "clean_source_conversations": 2308,
+  "basic_chat_examples": 16,
+  "basic_chat_training_repetitions": 5,
+  "train_conversations": 2157,
+  "val_conversations": 231,
+  "train_tokens": 198870,
+  "train_supervised_tokens": 88611,
+  "val_tokens": 21295,
+  "val_supervised_tokens": 9589
+}
